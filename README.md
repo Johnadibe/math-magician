@@ -103,6 +103,8 @@ You can deploy this project using:
 - Twitter: [@JohnAdibe2](https://twitter.com/JohnAdibe2)
 - LinkedIn: [@John Adibe](https://www.linkedin.com/in/john-adibe-400b36166/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Develop a React component that will hold the core functionality: a calculator.]**
