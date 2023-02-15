@@ -30,7 +30,7 @@ form > input:focus {
 .btns {
   display: grid;
   grid-template-columns: repeat(4, 6rem);
-  grid-template-rows: minmax(6rem, auto), repeat(4, 5rem);
+  grid-template-rows: minmax(6rem, auto) repeat(4, 5rem);
   justify-content: center;
   gap: 1px;
 }
