@@ -37,9 +37,17 @@
   </ul>
 </details>
 
+### Key Features <a name="key-features"></a>
+
+- **[Develop a React component that will hold the core functionality: a calculator.]**
+- **[Add the logic needed to make the Calculator component you developed in the previous project actually work.]**
+- **[Refactor the Calculator component using Hooks]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [No Live Demo Link]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,6 +102,14 @@ You can deploy this project using:
 - GitHub: [@Johnadibe](https://github.com/Johnadibe)
 - Twitter: [@JohnAdibe2](https://twitter.com/JohnAdibe2)
 - LinkedIn: [@John Adibe](https://www.linkedin.com/in/john-adibe-400b36166/)
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Develop a React component that will hold the core functionality: a calculator.]**
+- [ ] **[Add the logic needed to make the Calculator component you developed in the previous project actually work.]**
+- [ ] **[Refactor the Calculator component using Hooks]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
