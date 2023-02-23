@@ -1,10 +1,19 @@
 import './App.css';
-import Calculator from './components/Calculator';
+import { Route, Routes } from 'react-router-dom';
+import Home from './components/pages/Home';
+import Calculator from './components/pages/Calculator';
+import Quote from './components/pages/Quote';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
     <div className="App">
-      <Calculator />
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/calculator" element={<Calculator />} />
+        <Route path="/quote" element={<Quote />} />
+      </Routes>
     </div>
   );
 }
