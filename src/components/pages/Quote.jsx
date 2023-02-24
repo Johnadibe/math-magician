@@ -1,6 +1,3 @@
-/* eslint-disable react/jsx-indent */
-/* eslint-disable max-len */
-/* eslint-disable no-trailing-spaces */
 import React from 'react';
 
 function Quote() {
@@ -8,11 +5,12 @@ function Quote() {
     <div className="cover">
       <div className="quote__random">
         <p>
-            Mathematics is not about numbers, equations, computations, or algorithms: It is about understanding. 
-        <br /> 
-        <span className="quote__author">
+          Mathematics is not about numbers, equations, computations, or algorithms:
+          It is about understanding.
+          <br />
+          <span className="quote__author">
             - William Paul Thurston
-        </span>
+          </span>
         </p>
       </div>
     </div>

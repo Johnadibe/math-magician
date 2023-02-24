@@ -1,5 +1,3 @@
-/* eslint-disable import/no-extraneous-dependencies */
-/* eslint-disable no-trailing-spaces */
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -7,7 +5,7 @@ function Navbar() {
   return (
     <nav className="nav">
       <Link to="/" className="logo-title">
-        Math 
+        Math
         <span>
           Magicians
         </span>
